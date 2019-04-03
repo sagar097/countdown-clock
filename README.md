@@ -24,7 +24,7 @@ Then you're ready to start Using your Countdown-timer:
 
 
 ### `Licence (MIT)`
-Copyright (c) 2019 sagar ganesh pawar
+Copyright (c) 2019 sagar g pawar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

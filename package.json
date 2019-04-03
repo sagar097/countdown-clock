@@ -1,6 +1,6 @@
 {
   "name": "countdown-now",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "private": false,
   "description": "Display a Countdown timer by Providing Date and Time ",
   "licence": "MIT",

@@ -20,7 +20,7 @@ Then you're ready to start Using your Countdown-timer:
    <Countdown date="apr 20, 2019 21:00:00"/>
  ```
 
-**Note : Necessary to define date property using above format.** 
+**Note : Necessary to define date property using above format** 
 
 
 ### `Licence (MIT)`

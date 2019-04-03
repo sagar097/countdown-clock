@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-       <Countdown date="apr 20, 2019 21:00:00"/>
+       <Countdown  date="apr 3,  2019 15:05:30"/>
       </div>
     );
   }

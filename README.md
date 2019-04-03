@@ -1,4 +1,4 @@
-### `@sagar.pawar/countdown-clock`
+### `@sagar.pawar/countdown-now`
 
 ![npm (scoped)](https://img.shields.io/npm/v/@sagar.pawar/countdown-clock.svg) ![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/countdown-clock.svg)
 
@@ -7,12 +7,12 @@ Coundown-Timer using date and time
 ### `Using npm:`
  
  ```javascript
- $ npm install @sagar.pawar/countdown-clock --save
+ $ npm install countdown-now --save
  ```
 ### `Usage`
 In some frameworks you have to import countdown-clock like this:
  ```javascript
- import Countdown from '@sagar.pawar/countdown-clock'
+ import Countdown from 'countdown-now'
  ```
 
 Then you're ready to start Using your Countdown-timer:

@@ -1,3 +1,4 @@
+import {Button, Typography} from '@material-ui/core';
 import React, { Component } from 'react';
 
 class Countdown extends Component {
@@ -36,8 +37,9 @@ class Countdown extends Component {
       const { days, seconds, hours, minutes, time_up } = this.state
       return ( 
           <div> 
-
-          <h1>Countdown Clock</h1>
+        <Button variant="outlined" color="primary" size='large'>  {days}:{hours}:{minutes}:{seconds} </Button>
+          
+          {/* <h1>Countdown Clock</h1>
           <div id="clockdiv">
           <div>
               <span className="days" id="day">{days}</span>
@@ -60,8 +62,9 @@ class Countdown extends Component {
               
           </div>
           </div>
+           */}
           
-          <p id="demo">{time_up}</p>
+          <Typography  color="secondary" id="demo">{time_up}</Typography>
           </div>
       )
   }

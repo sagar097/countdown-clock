@@ -7,7 +7,7 @@ Coundown-Timer using date and time
 ### `Using npm:`
  
  ```javascript
- $ npm install @bamblehorse/tiny --save
+ $ npm install @sagar.pawar/countdown-clock --save
  ```
 ### `Usage`
 In some frameworks you have to import countdown-clock like this:

@@ -71,7 +71,7 @@ class Countdown extends Component {
 }
 
 Countdown.defaultProps={
-    date:"apr 29, 2019 21:00:00"
+    date:"apr , 0000 00:00:00"
 }
 
 export default Countdown;

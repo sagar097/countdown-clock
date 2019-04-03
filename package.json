@@ -1,22 +1,21 @@
 {
   "name": "countdown-now",
-  "version": "5.0.0",
+  "version": "5.0.3",
   "private": false,
   "description": "Display a Countdown timer by Providing Date and Time ",
   "licence": "MIT",
-  "repository": "sagar097/countdown-clock",
+  "repository": "sagar097/countdown-now",
   "keywords": [
     "countdown",
     "npm",
     "package",
     "sagar.pawar",
-    "countdown-timer",
+    "countdown-now",
     "clock",
     "timer"
   ],
   "dependencies": {
     "@material-ui/core": "^3.9.3",
-    "@sagar.pawar/countdown-clock": "^2.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"

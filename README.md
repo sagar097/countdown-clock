@@ -1,6 +1,6 @@
 ### `@sagar.pawar/countdown-now`
 
-![npm (scoped)](https://img.shields.io/npm/v/@sagar.pawar/countdown-clock.svg) ![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/countdown-clock.svg)
+![npm (scoped)](https://img.shields.io/npm/v/countdown-now.svg) ![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/countdown-clock.svg)
 
 Coundown-Timer using date and time 
 
